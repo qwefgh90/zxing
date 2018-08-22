@@ -1,5 +1,11 @@
 <img align="right" src="https://raw.github.com/wiki/zxing/zxing/zxing-logo.png"/>
 
+## NEWBIE
+
+- mvn package -DskipTests
+- rename and copy **ROOT.war** file to webapps
+- create **tmp** folder to apache-tomcat-8.5.32\work\Catalina\localhost\ROOT
+
 ## Get Started Developing
 To get started, please visit: https://github.com/zxing/zxing/wiki/Getting-Started-Developing
 
