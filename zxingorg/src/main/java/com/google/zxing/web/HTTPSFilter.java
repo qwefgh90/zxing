@@ -27,7 +27,7 @@ import java.io.IOException;
 /**
  * Redirects things to HTTPS, like the main decode page, which should prefer HTTPS.
  */
-@WebFilter("/w/decode.jspx")
+@WebFilter("/w/decode.jspxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
 public final class HTTPSFilter extends AbstractFilter {
 
   @Override
