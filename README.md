@@ -3,7 +3,7 @@
 ## NEWBIE
 
 - mvn package -DskipTests
-- rename and copy **ROOT.war** file to webapps
+- rename and copy **ROOT.war(below zxingorg/target) ** file to webapps 
 - create **tmp** folder to apache-tomcat-8.5.32\work\Catalina\localhost\ROOT
 
 ## Get Started Developing
